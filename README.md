@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, im currently learning Javascript and Node.js. Also interested on competitive programming, i like astronomy and history 🔭
 <!--
 **alejandroc0de/alejandroc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
