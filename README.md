@@ -1,4 +1,4 @@
-## Hi, im currently learning Javascript and Node.js. Also interested on competitive programming, i like astronomy and history 🔭
+## Hi 
 <!--
 **alejandroc0de/alejandroc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  Im currently learning Javascript and Node.js. Also interested on competitive programming, i like astronomy and history 🔭
+</p>
 ## ⚡️ Stats
 
 <br>
