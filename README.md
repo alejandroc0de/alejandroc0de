@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 <p>
   Im currently learning Javascript and Node.js. Also interested on competitive programming, i like astronomy and history 🔭
 </p>
-
-Stats
-
-<br>
-
-<hr>
