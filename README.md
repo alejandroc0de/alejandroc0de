@@ -27,6 +27,7 @@ Key Features
 - Interactive and visual productivity experience
 - Also a basic pomodoro if you're not into planes
 
+Link : https://flight-pomodoro.netlify.app/focus
 Repo : https://github.com/alejandroc0de/React/tree/4cc0bd7421a9a00fddd2fa7f5aac3d82a2509482/flight-pomodoro
 
 
@@ -59,6 +60,7 @@ Architecture
 - WebSocket-based communication layer using Socket.io
 - REST + middleware for authentication and request handling
 
+Link : https://ingenious-fascination-production-7b44.up.railway.app/login
 Repo : https://github.com/alejandroc0de/think-of-you.git
 
 
