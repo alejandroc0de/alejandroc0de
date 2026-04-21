@@ -25,7 +25,9 @@ Key Features
 - Real-time plane animation during sessions
 - Distance calculation using the Haversine formula
 - Interactive and visual productivity experience
-- Also a basic pomodoro if you're not into planes 
+- Also a basic pomodoro if you're not into planes
+
+Repo : https://github.com/alejandroc0de/React/tree/4cc0bd7421a9a00fddd2fa7f5aac3d82a2509482/flight-pomodoro
 
 
 ## Thinkofyou
@@ -56,6 +58,8 @@ Architecture
 
 - WebSocket-based communication layer using Socket.io
 - REST + middleware for authentication and request handling
+
+Repo : https://github.com/alejandroc0de/think-of-you.git
 
 
 ## Contact
